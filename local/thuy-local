@@ -6,4 +6,5 @@
     "storage": "192.168.100.111:3051",
     "storage_package": "192.168.100.111:3151",
     "state_channel_master": "192.168.100.111:3071"
+    "storage_address": "0xda7284faC5E804F8b9d71Aa39310f0f86776b51d"
 }
